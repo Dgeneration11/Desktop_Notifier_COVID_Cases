@@ -8,7 +8,7 @@ These instructions will get you a copy of the project up and running on your loc
 ## Prerequisites
 
 I am assuming you all have Python's latest version installed.
-The relavant data we need for this project is [WorldOMeters](https://www.worldometers.info/coronavirus/) 
+The relavant data we need for this project is fetched from [WorldOMeters](https://www.worldometers.info/coronavirus/) 
 
 #### Install the following libraries:
 ```
